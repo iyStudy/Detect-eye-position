@@ -4,9 +4,10 @@ FaceMesh Eye Detection (顔の目検出)
 このリポジトリには、ウェブカメラを使用して、リアルタイムで顔の目の位置を検出し、目の中心に円を描くPythonプログラムが含まれています。このプロジェクトはMediaPipeのFace Meshモデルを使用しています。
 
 ## 必要なもの
-Python 3.x
-OpenCV
-MediaPipe
+・Python 3.x  
+・OpenCV  
+・MediaPipe  
+・webカメラ
 ## インストール
 必要なライブラリのインストール
 プロジェクトに必要なライブラリをインストールするには、以下のコマンドを使用してください。
